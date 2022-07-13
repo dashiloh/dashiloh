@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dashiloh
-- 👀 I’m interested in to Code
+- 👀 I’m interested and a newbie in Coding
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on Projects and Mentoring
 - 📫 How to reach me is on princeshiloh@yahoo.com
